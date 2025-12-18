@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "序章。",
+  "base_artist": "Yuika",
+  "createdAt": "2025-12-18T15:44:04.150828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "序章。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/01_序章。_『ユイカ』.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "序章",
+      "artist": "Ayano Kaneko",
+      "has_synced": false,
+      "path": "select/02_序章_Ayano_Kaneko.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "序章",
+      "artist": "Kaneko Ayano",
+      "has_synced": false,
+      "path": "select/03_序章_Kaneko_Ayano.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "序章",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/04_序章_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "序章。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/05_序章。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "序章",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/06_序章_カネコアヤノ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "序章",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/07_序章_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "迷路 ~序章~",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/08_迷路_~序章~_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "迷路 〜序章〜",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/09_迷路_〜序章〜_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forever (真・仮面ライダー 序章(プロローグ))",
+      "artist": "渡辺典子",
+      "has_synced": false,
+      "path": "select/10_Forever_(真・仮面ライダー_序章(プロローグ))_渡辺典子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "序章。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_序章。_『ユイカ』.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "序章。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_02_序章。_『ユイカ』.txt"
+    }
+  ]
+}
